@@ -15,9 +15,9 @@ Aqui, cada lanche representa uma *vibe* diferente do mar — desde a maré tranq
 ## 🍔 Cardápio (Exemplo)
 | Nome do Lanche | Descrição | Preço |
 |---|---|---|
-| **Naufrango** | Hambúrguer com bacon, calabresa, ovo e tudo de bom — o maior da casa. | R$ 48,00 |
-| **Carnudinho** | Hambúrguer clássico com queijo, alface, tomate e maionese. | R$ 27,00 |
-| **Conchovo** | Hambúrguer com ovo e presunto, no ponto certo entre leve e completo. | R$ 33,00 |
+| **Naufrango** | Hambúrguer com frango, ovo frito, bacon, queijo, alface, tomate e maionese. | R$ 20,90 |
+| **Carnudinho** | Hambúrguer bovino, queijo, alface, tomate, maionese e sal. | R$ 25,90 |
+| **Conchovo** | Hambúrguer com queijo, ovo frito, alface, tomate, maionese e sal. | R$ 25,90 |
 
 ---
 
@@ -26,7 +26,6 @@ Aqui, cada lanche representa uma *vibe* diferente do mar — desde a maré tranq
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- Icons / SVG
 
 ---
 
