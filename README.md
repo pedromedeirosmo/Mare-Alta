@@ -12,12 +12,17 @@ Aqui, cada lanche representa uma *vibe* diferente do mar — desde a maré tranq
 
 ---
 
-## 🍔 Cardápio (Exemplo)
-| Nome do Lanche | Descrição | Preço |
+## 🍔 Cardápio
+| Lanche | Descrição | Preço |
 |---|---|---|
 | **Naufrango** | Hambúrguer com frango, ovo frito, bacon, queijo, alface, tomate e maionese. | R$ 20,90 |
 | **Carnudinho** | Hambúrguer bovino, queijo, alface, tomate, maionese e sal. | R$ 25,90 |
 | **Conchovo** | Hambúrguer com queijo, ovo frito, alface, tomate, maionese e sal. | R$ 25,90 |
+
+| Bebida | Sabor | Preço |
+|---|---|---|
+| **Summer Soda** | Maçã Verde. | R$ 7,00 |
+| **Summer Soda** | Framboesa | R$ 7,00 |
 
 ---
 
